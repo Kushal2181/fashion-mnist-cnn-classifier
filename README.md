@@ -54,6 +54,12 @@ Or open directly in Google Colab:
 
 ---
 
+##Results
+
+![Confusion Matrix](Results/confusion_matrix.png)
+
+---
+
 ## How Grad-CAM works
 
 1. A sub-model exposes the output of the last convolutional layer alongside the final predictions.
