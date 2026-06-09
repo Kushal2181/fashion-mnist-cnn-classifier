@@ -50,7 +50,7 @@ jupyter notebook XAI_PROJECT_with_GradCAM.ipynb
 ```
 
 Or open directly in Google Colab:  
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/YOUR_USERNAME/fashion-mnist-cnn-classifier/blob/main/XAI_PROJECT_with_GradCAM.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Kushal2181/fashion-mnist-cnn-classifier/blob/main/XAI_PROJECT_with_GradCAM.ipynb)
 
 ---
 
